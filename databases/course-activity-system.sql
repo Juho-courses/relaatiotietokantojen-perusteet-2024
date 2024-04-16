@@ -6,7 +6,7 @@
 -- alla oleva.
 --
 -- 2 vaihtoehto b) Lataa tiedosto ja aja se kantaa vasten
--- wget URL
+-- wget https://raw.githubusercontent.com/Juho-courses/relaatiotietokantojen-perusteet-2024/main/databases/course-activity-system.sql
 -- mysql -uadmin -p < course-activity-system.sql
 
 
